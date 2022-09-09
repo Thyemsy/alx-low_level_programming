@@ -5,7 +5,7 @@
 /**
  * main -Entry point
  * Desciption - Assign a random number to valiable n each time is executed
- * return: Always 0
+ * Return: Always 0(success)
  */
 int main(void)
 {
