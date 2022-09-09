@@ -10,16 +10,16 @@ int main(void)
 
 	while (a <= 'z')
 	{
-		putcher(a);
+		putchar(a);
 		a++;
 	}
 	a =  'A';
 	while (a <= 'Z')
 	{
-		putcher(a);
+		putchar(a);
 		a++;
 	}
-	putcher('\n');
+	putchar('\n');
 	return (0);
 
 }
