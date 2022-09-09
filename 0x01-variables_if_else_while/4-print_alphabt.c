@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description - program that prints the alphabet in lowercase,but without e and q
+ * Description -program that prints alphabet in lowercase without e and q
  * Return: always return 0
  */
 int main(void)
@@ -18,5 +18,4 @@ int main(void)
 		ch++;
 	}
 	putchar('\n');
-	return (0);
-}	
+	return (0);}	
