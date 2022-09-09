@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point
- * Description - Write a program that prints the alphabet in lowercase,but without e and q
- *Return: always return 0
+ * Description - program that prints the alphabet in lowercase,but without e and q
+ * Return: always return 0
  */
 int main(void)
 {
