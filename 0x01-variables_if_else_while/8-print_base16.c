@@ -1,18 +1,22 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main -Entry point
  * Return: return 0
  */
 int main(void)
 {
-	int i;
+	int n;
+	char chr;
 
-	for (i = 48; i < 58; i++)
-		putchar(i);
-	for (i = 'a'; 'f'; i++)
-		putchar(i);
+	for (n = 48; n < 58; n++)
+	{
+		putchar(n);
+	}
+	for (chr = 'a'; chr <= 'f'; chr++)
+	{
+		putcher(chr);
+	}
 	putchar('\n');
-	return (0);
+	return(0);
 }
-			
