@@ -15,7 +15,7 @@ int main(void)
 	}
 	for (chr = 'a'; chr <= 'f'; chr++)
 	{
-		putcher(chr);
+		putchar(chr);
 	}
 	putchar('\n');
 	return(0);
