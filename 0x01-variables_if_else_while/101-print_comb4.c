@@ -2,7 +2,7 @@
 
 /**
  * main -prints all possible different combinations of three digits
- * return:return 0
+ * Return:return 0
  */
 int main(void)
 {
@@ -29,6 +29,6 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
 		
