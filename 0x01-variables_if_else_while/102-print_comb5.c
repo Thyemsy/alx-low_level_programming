@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main- Write a program that prints all possible combinations of two two-digit numbers.
+ * main- a program that prints all possible combinations of two two-digit numbers.
  *Return: return 0
  */
- int main(void)
+int main(void)
 {
 	int j, i;
 
@@ -19,7 +19,7 @@
 				putchar(i / 10 + 48);
 				putchar(i % 10 + 48);
 
-				if (j *100 + 1 != 9899)
+				if (j * 100 + 1 != 9899)
 				{
 					putchar(',');
 					putchar(' ');
