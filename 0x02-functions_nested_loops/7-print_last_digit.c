@@ -1,4 +1,5 @@
 #include "main.h"
+#include "6-abs.c"
 /**
  * print_last_digit - This function prints the last digit of a number
  * @n: The integer the function is receiving
