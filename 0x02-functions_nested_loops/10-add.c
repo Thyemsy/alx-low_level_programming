@@ -3,6 +3,8 @@
 /**
  * main- Entry point
  * add - add up function
+ * @a- first integer
+ * @b- second integer
  * Return:return the sum of two integer
  */
 int add(int a, int b)
