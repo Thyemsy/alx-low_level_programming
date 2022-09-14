@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- * main- Entry point
  * add - add up function
  * @a: first integer
  * @b: second integer
