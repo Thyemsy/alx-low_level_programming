@@ -6,7 +6,7 @@
  */
 int _islower(int c)
 {
-	if (c  = _islower('c'))
+	if (c == _islower('c'))
 	{
 		_putchar(c + 'c');
 		return(1);
