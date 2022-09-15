@@ -4,7 +4,7 @@
  * print_most_numbers - print number  bweteen 0 and 9 exclude 2 & 4
  * return: 0
  */
-void print_most_numbers(void)
+void print_numbers(void)
 {
 	int i;
 
