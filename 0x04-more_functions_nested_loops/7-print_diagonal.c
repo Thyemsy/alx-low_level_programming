@@ -4,7 +4,6 @@
  * print_diagonal - prints diagonal stuff
  * @n: integer to set diagonal
  */
-
 void print_diagonal(int n)
 {
 	int i;
