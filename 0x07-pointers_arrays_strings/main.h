@@ -3,7 +3,7 @@
 
 int _putchar(char c);
 
-char *memset(char *s, har b, nsigned int n);
+char *memset(char *s, char b, unsigned int n);
 
 char *_emcpy(char *dest, char src, unsigned int n);
 
@@ -18,3 +18,5 @@ char *_strstr(char *haystack, char *needle);
 void print_chessboard(char (*a)[8]);
 
 void print_diagsums(int *a, int size);
+
+#endif
