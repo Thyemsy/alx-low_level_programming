@@ -1,0 +1,20 @@
+#ifndef MAIN_H
+#define MAIN_H
+
+int _putchar(char c);
+
+char *memset(char *s, har b, nsigned int n);
+
+char *_emcpy(char *dest, char src, unsigned int n);
+
+char *_strchr(char *S, char c);
+
+unsigned _strcpn(char *s, char *accept);
+
+char *_strpbrk(char *s, char *accept);
+
+char *_strstr(char *haystack, char *needle);
+
+void print_chessboard(char (*a)[8]);
+
+void print_diagsums(int *a, int size);
