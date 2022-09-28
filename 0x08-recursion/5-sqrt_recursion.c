@@ -1,13 +1,12 @@
 #include "main.h"
 
 /**
- * _sqrt - _sqrt_recursion                                                                                                           
- * @n: integer paramtr                                                                                                                             
- * @i: integer parameter                                                                                                                           
- * Return: sqrt                                                                                                                                    
+ * sqrt_check - _sqrt_recursion
+ * @n: integer arg
+ * @i: integer parameter
+ * Return: sqrt
  */
-
-int sqrt_check(int n, int i)                                                                                                                       
+int sqrt_check(int n. int i)
 {
 	if (n < 0)
 		return (-1);
@@ -17,7 +16,6 @@ int sqrt_check(int n, int i)
 		return (i);
 	return (sqrt_check(n, i + 1));
 }
-
 /**
  * _sqrt_recursion - a function returns the natural square root of a number
  * @n: int n
