@@ -6,7 +6,7 @@
  * @i: integer parameter
  * Return: sqrt
  */
-int sqrt_check(int n. int i)
+int sqrt_check(int n, int i)
 {
 	if (n < 0)
 		return (-1);
